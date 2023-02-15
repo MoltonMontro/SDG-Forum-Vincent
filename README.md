@@ -1,3 +1,3 @@
-## Discourse Vincent theme v0.77 beta
- 
-More information https://meta.discourse.org/t/76662/
+## What now?
+
+This fork was always intended to be a temporary fix. For a more polished, functional fork of the original theme, see: https://github.com/MoltonMontro/discourse-vincent2-theme
